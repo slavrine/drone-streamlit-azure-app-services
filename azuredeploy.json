@@ -49,7 +49,7 @@
       },
       "repoUrl": {
         "type": "string",
-        "defaultValue": "https://github.com/benalexkeen/streamlit-azure-app-services.git",
+        "defaultValue": "https://github.com/slavrine/drone-streamlit-azure-app-services.git",
         "metadata": {
           "description": "Git Repo URL"
         }
